@@ -4,7 +4,7 @@ spring:
   application:
     name: usian-item-web  #向注册中心注册的名称
   rabbitmq:
-    host: 192.168.233.132
+    host: 192.168.159.136
     username: admin
     password: 1111
     virtual-host: /
